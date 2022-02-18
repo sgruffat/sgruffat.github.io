@@ -20,13 +20,7 @@ function staticLoadPlaces() {
 }
 
 var models = [
- 
-    {
-        url: './assets/pair/pair.glb',
-        scale: '0.5 0.5 0.5',
-        rotation: '0 180 0',
-        info: 'Pair, Lv. 5, HP 10/10',
-    },
+
     
        {
         url: './assets/magnemite/scene.gltf',
