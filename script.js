@@ -28,7 +28,7 @@ var models = [
     },
     {
         url: './assets/pair/pair.glb',
-        scale: '0.2 0.2 0.2',
+        scale: '2.0 2.0 2.0',
         rotation: '0 180 0',
         info: 'Articuno, Lv. 80, HP 100/100',
     },
