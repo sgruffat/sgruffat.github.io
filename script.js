@@ -79,5 +79,4 @@ function renderPlaces(places) {
         scene.appendChild(model);
     });
 }
-view raw
-script.js hosted with ❤ by GitHub
+
