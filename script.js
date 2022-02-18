@@ -22,7 +22,7 @@ function staticLoadPlaces() {
 var models = [
 
       {
-        url: './assets/fox/Fox.gltf',
+        url: './assets/DETENTE/DETENTE.glb',
         scale: '0.5 0.5 0.5',
         info: 'Fox, Lv. 5, HP 10/10',
         rotation: '0 180 0',
