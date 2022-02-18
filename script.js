@@ -23,7 +23,7 @@ var models = [
 
       {
         url: './assets/DETENTE/DETENTE.glb',
-        scale: '0.5 0.5 0.5',
+        scale: '100 100 100',
         info: 'Fox, Lv. 5, HP 10/10',
         rotation: '0 180 0',
     },
