@@ -21,12 +21,7 @@ function staticLoadPlaces() {
 
 var models = [
 
-      {
-        url: './assets/DETENTE/DETENTE.glb',
-        scale: '100 100 100',
-        info: 'Fox, Lv. 5, HP 10/10',
-        rotation: '0 180 0',
-    },
+   
     
        {
         url: './assets/magnemite/scene.gltf',
