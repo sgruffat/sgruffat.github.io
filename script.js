@@ -30,7 +30,7 @@ var models = [
         url: './assets/pair/pair.glb',
         scale: '10 10 10',
         rotation: '0 180 0',
-        info: 'Articuno, Lv. 80, HP 10/10',
+        info: 'Articuno, Lv. 5, HP 10/10',
     },
  
 ];
